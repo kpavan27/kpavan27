@@ -3,7 +3,7 @@
 **MSc Data Science · ML Engineer · Dublin, Ireland**
 M.Sc. Computer Science (Data Science) · Technological University Dublin · Class of 2025
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolasanipavan27@gmail.com) ![Location](https://img.shields.io/badge/Location-Dublin%2C%20Ireland-4285F4?style=for-the-badge) ![Open To Work](https://img.shields.io/badge/Open%20To%20Work-ML%20%2F%20Data%20Science-brightgreen?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolasanipavan27@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankolasani1806/) [![Location](https://img.shields.io/badge/Dublin%2C%20Ireland-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dublin,Ireland) [![Open To Work](https://img.shields.io/badge/Open%20To%20Work-ML%20%2F%20Data%20Science-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/pavankolasani1806/)
 
 ---
 
@@ -13,7 +13,7 @@ I'm a data scientist and ML engineer with a background spanning deep learning, c
 
 I'm drawn to projects where ML has a measurable real-world effect: cutting unplanned downtime, forecasting energy consumption, making food systems more sustainable.
 
-🔍 **Currently:** Open to ML / Data Science roles in Ireland or remote
+🟢 **Currently:** Open to ML / Data Science roles in Ireland or remote
 
 ---
 
@@ -31,19 +31,20 @@ I'm drawn to projects where ML has a measurable real-world effect: cutting unpla
 ## Tech Stack
 
 **Languages:** Python · JavaScript · TypeScript · SQL
+
 **ML / DL:** TensorFlow/Keras · scikit-learn · XGBoost · YOLOv8 · OpenAI Whisper
+
 **Data:** Pandas · NumPy · Jupyter · SQLite
+
 **Backend:** FastAPI · Uvicorn
+
 **Frontend:** React · CSS
+
 **Tools:** Git · Power BI · Optuna
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpavan27&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpavan27&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpavan27&layout=compact&theme=dark&hide_border=true)
-
----
-
-*Always happy to talk about ML, data engineering, or good food recommendations.*
