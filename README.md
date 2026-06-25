@@ -5,6 +5,7 @@ M.Sc. Computer Science (Data Science) · Technological University Dublin · Clas
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolasanipavan27@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankolasani1806/) [![Location](https://img.shields.io/badge/Dublin%2C%20Ireland-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dublin,Ireland) [![Open To Work](https://img.shields.io/badge/Open%20To%20Work-ML%20%2F%20Data%20Science-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/pavankolasani1806/)
 
+🌐 **Portfolio:** [https://portfolio-tau-six-66.vercel.app](https://portfolio-tau-six-66.vercel.app)
 ---
 
 ## About Me
