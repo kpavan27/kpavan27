@@ -1,50 +1,43 @@
-# Hi, I'm Pavan Kolasani 👋
+# Hi, I'm Pavan Kolasani
 
-**MSc Data Science · ML Engineer · Dublin, Ireland**
-M.Sc. Computer Science (Data Science) · Technological University Dublin · Class of 2025
+**Data Engineer · Data Scientist · Dublin, Ireland**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolasanipavan27@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankolasani1806/) [![Location](https://img.shields.io/badge/Dublin%2C%20Ireland-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dublin,Ireland) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-tau-six-66.vercel.app)
+EHR Data Migration Specialist at **UPMC Ireland** · MSc Data Science, First Class Honours (TU Dublin, 2025) · **AWS Certified Data Engineer – Associate**
 
----
-
-## About Me
-
-I'm a data scientist and ML engineer with a background spanning deep learning, computer vision, NLP, and full-stack AI applications. My MSc dissertation built a zero-shot scene classifier in Python using YOLOv8 and a custom Visual Knowledge Base — no labelled test data, 77% valid-prediction accuracy on Places365.
-
-I'm drawn to projects where ML has a measurable real-world effect: cutting unplanned downtime, forecasting energy consumption, making food systems more sustainable.
-
-🟢 **Currently:** Open to ML / Data Science roles in Ireland or remote
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-six-66.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankolasani1806/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolasanipavan27@gmail.com)
 
 ---
 
-## Projects
+## About me
+
+I work on SQL-based data migration, ETL and data-quality validation for a MEDITECH Expanse EHR rollout across UPMC's Irish hospitals. Outside work I build projects that focus on what makes data work trustworthy: catching leakage before it inflates a metric, choosing thresholds from real constraints, measuring drift, and writing up the limitations honestly.
+
+Open to data engineering, analytics and data science roles, especially in healthcare and health-tech.
+
+---
+
+## Featured projects
 
 | Project | What it does | Stack | Key result |
 |---|---|---|---|
-| [Energy Demand Forecasting](https://github.com/kpavan27/Projects/tree/main/Energy_Demand_Forecasting) | LSTM predicts hourly household power consumption with live FastAPI dashboard | TensorFlow · FastAPI · React | Real-time energy prediction |
-| [Predictive Maintenance](https://github.com/kpavan27/Projects/tree/main/Predictive_Maintenance_Manufacturing) | Predicts machine failures on 18k-record synthetic sensor dataset | XGBoost · SMOTE · Optuna · Power BI | **95% accuracy · AUC 0.85 · F1 0.75** |
-| [Zero-Shot Scene Classifier — MSc](https://github.com/kpavan27/Projects/tree/main/Zero-Shot%20VKB) | Classifies scenes with no test-time labels using YOLOv8 and a Visual Knowledge Base | YOLOv8 · Python · TF-IDF | **77% valid-pred accuracy · 80.25% Top-2** |
-| [VoiceChef](https://github.com/kpavan27/Projects/tree/main/voice-to-recipe) | Speak your ingredients and get a recipe with carbon footprint and nutrition breakdown | OpenAI Whisper · FastAPI · React | End-to-end voice to recipe |
+| [GenAI Policy Risk Analysis](https://github.com/kpavan27/genai-policy-risk-analysis) | Maps a 20-clause GenAI usage policy onto a moderation signal and measures the gaps on 5,082 real prompts, with a decision memo | Python · pandas · scikit-learn · pytest | **12 of 20 clauses uncovered; moderation flags 14% of jailbreaks** |
+| [Email Abuse Detection](https://github.com/kpavan27/email-abuse-detection) | Spam/abuse classifier with leakage controls, FPR-constrained thresholds, drift checks and error analysis | scikit-learn · DuckDB · FastAPI · Docker · CI | **97.6% recall at 0.41% FPR** |
+| [Zero-Shot Scene Classification](https://github.com/kpavan27/zero-shot-scene-classification) — MSc | Interpretable scene classifier built from YOLOv8 object detections and a TF-IDF Visual Knowledge Base, with an abstain option | YOLOv8 · Python · TF-IDF | **77% on non-abstained predictions · 80.25% Top-2** |
+| [Energy Demand Forecasting](https://github.com/kpavan27/energy-demand-forecasting) | LSTM forecasts next-hour household demand, served by FastAPI with a React dashboard | TensorFlow · FastAPI · React · TypeScript | Full train → serve → dashboard pipeline |
+| [Voice-to-Recipe](https://github.com/kpavan27/voice-to-recipe) | Speak your ingredients, get recipes with carbon-footprint and nutrition scoring | Whisper · FastAPI · React · Tailwind | 150+ ingredient variants, 70+ carbon profiles |
+
+Also: [predictive-maintenance](https://github.com/kpavan27/predictive-maintenance) (simulated sensor data and feature engineering, model code in progress) · [portfolio](https://github.com/kpavan27/portfolio) (Next.js site)
 
 ---
 
-## Tech Stack
+## Tech stack
 
-**Languages:** Python · JavaScript · TypeScript · SQL
+**Languages:** Python · SQL · TypeScript · JavaScript
 
-**ML / DL:** TensorFlow/Keras · scikit-learn · XGBoost · YOLOv8 · OpenAI Whisper
+**Data engineering:** ETL · data validation and reconciliation · DuckDB · pandas · AWS (Certified Data Engineer – Associate)
 
-**Data:** Pandas · NumPy · Jupyter · SQLite
+**ML:** scikit-learn · TensorFlow/Keras · XGBoost · YOLOv8 · Whisper
 
-**Backend:** FastAPI · Uvicorn
+**Engineering:** FastAPI · Docker · pytest · GitHub Actions · React · Next.js
 
-**Frontend:** React · CSS
-
-**Tools:** Git · Power BI · Optuna
-
----
-
-## GitHub Stats
-
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpavan27&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpavan27&layout=compact&theme=dark&hide_border=true)
+**BI:** Power BI · Excel
