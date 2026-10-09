@@ -20,6 +20,7 @@ Open to data engineering, analytics and data science roles, especially in health
 
 | Project | What it does | Stack | Key result |
 |---|---|---|---|
+| [Energy Data Pipeline](https://github.com/kpavan27/energy-data-pipeline) | Versioned pipeline that ingests pinned releases of OWID energy data and captures how each release revises history | DuckDB · dbt · Python · Parquet · CI | **Automatically detected a methodology change: hydro, wind and solar rescaled ×0.94 across ~6,700 values** |
 | [GenAI Policy Risk Analysis](https://github.com/kpavan27/genai-policy-risk-analysis) | Maps a 20-clause GenAI usage policy onto a moderation signal and measures the gaps on 5,082 real prompts, with a decision memo | Python · pandas · scikit-learn · pytest | **12 of 20 clauses uncovered; moderation flags 14% of jailbreaks** |
 | [Email Abuse Detection](https://github.com/kpavan27/email-abuse-detection) | Spam/abuse classifier with leakage controls, FPR-constrained thresholds, drift checks and error analysis | scikit-learn · DuckDB · FastAPI · Docker · CI | **97.6% recall at 0.41% FPR** |
 | [Zero-Shot Scene Classification](https://github.com/kpavan27/zero-shot-scene-classification) — MSc | Interpretable scene classifier built from YOLOv8 object detections and a TF-IDF Visual Knowledge Base, with an abstain option | YOLOv8 · Python · TF-IDF | **77% on non-abstained predictions · 80.25% Top-2** |
@@ -34,7 +35,7 @@ Also: [predictive-maintenance](https://github.com/kpavan27/predictive-maintenanc
 
 **Languages:** Python · SQL · TypeScript · JavaScript
 
-**Data engineering:** ETL · data validation and reconciliation · DuckDB · pandas · AWS (Certified Data Engineer – Associate)
+**Data engineering:** dbt · DuckDB · Parquet · ETL · change data capture · data validation and reconciliation · pandas · AWS (Certified Data Engineer – Associate)
 
 **ML:** scikit-learn · TensorFlow/Keras · XGBoost · YOLOv8 · Whisper
 
